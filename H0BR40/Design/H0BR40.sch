@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1470,21 +1470,21 @@ In this library the device names are the same as the pin names of the symbols, t
 </class>
 </classes>
 <parts>
-<part name="C8" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
+<part name="C1" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
-<attribute name="MFN" value="KEMET"/>
-<attribute name="MPN" value="C0603C104K8RACTU"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g"/>
+<attribute name="MFN" value="AVX"/>
+<attribute name="MPN" value="0603YC104K4T2A"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651"/>
 <attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="10V"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V"/>
 </part>
 <part name="C2" library="Hexabitz" deviceset="C-0805-POL" device="" value="1.00uF">
 <attribute name="CAPACITANCE" value="1.00uF"/>
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="CC0805KKX7R7BB105"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/cc0805kkx7r7bb105-yageo-8376555?r=sp&amp;s=YKl1wwtkROau_X5nniH2ig"/>
+<attribute name="MFN" value="AVX"/>
+<attribute name="MPN" value="TAJR105M016RNJ"/>
+<attribute name="OCTOPART_URL" value="http://octopart.com/tajr105m016rnj-avx-1188552"/>
 <attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="16V"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V"/>
 </part>
 <part name="FB1" library="Hexabitz" deviceset="FB-TDK_MMZ1608Y300B" device="" value="FB-TDK_MMZ1608Y300B">
 <attribute name="MFN" value="TDK "/>
@@ -1492,11 +1492,11 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="OCTOPART_URL" value="https://octopart.com/mmz1608y300b-tdk-368280?r=sp&amp;s=cd9_2ZEqQ9q9UNBuQgHAiA"/>
 </part>
 <part name="R1" library="Hexabitz" deviceset="R-0603" device="" value="270.0R">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603FR-07270RL"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/search?q=RC0603FR-07270RL&amp;start=0"/>
+<attribute name="MFN" value="Panasonic"/>
+<attribute name="MPN" value="ERJ-3GEYJ271V"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/erj-3geyj271v-panasonic-55560546"/>
 <attribute name="RESISTANCE" value="270.0 Ohm"/>
-<attribute name="TOLERANCE" value="1%"/>
+<attribute name="TOLERANCE" value="5%"/>
 </part>
 <part name="U1" library="Hexabitz" deviceset="STM32F091CBU6" device="" value="STM32F091CBU6"/>
 <part name="D1" library="Hexabitz" deviceset="VLMS1300-GS08" device="" value="VLMS1300-GS08">
@@ -1509,75 +1509,75 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="SUPPLY5" library="supply2" deviceset="VDD" device=""/>
 <part name="SUPPLY6" library="supply2" deviceset="VCC" device="" value="VDDA"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
-<part name="R3" library="Hexabitz" deviceset="R-0603" device="" value="10.0K">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603JR-0710KL"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/search?q=RC0603JR-0710KL&amp;start=0"/>
+<part name="R2" library="Hexabitz" deviceset="R-0603" device="" value="10.0K">
+<attribute name="MFN" value="Vishay"/>
+<attribute name="MPN" value="CRCW060310K0JNEB"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw060310k0jneb-vishay-46603269"/>
 <attribute name="RESISTANCE" value="10.0K Ohm"/>
 <attribute name="TOLERANCE" value="5%"/>
 </part>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
+<part name="C3" library="Hexabitz" deviceset="C-0805-POL" device="" value="4.7uF">
+<attribute name="CAPACITANCE" value="4.7uF"/>
+<attribute name="MFN" value="Panasonic"/>
+<attribute name="MPN" value="10TPU4R7MSI"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/10tpu4r7msi-panasonic-29487748"/>
+<attribute name="TOLERANCE" value="20%"/>
+<attribute name="VOLTAGE_RATING" value="10.0 V"/>
+</part>
 <part name="C4" library="Hexabitz" deviceset="C-0805-POL" device="" value="4.7uF">
 <attribute name="CAPACITANCE" value="4.7uF"/>
-<attribute name="MFN" value="Murata"/>
-<attribute name="MPN" value="GRM21BC81E475KA12L"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc81e475ka12l-murata-10331911?r=sp&amp;s=RY3qZSD8T6mG6TC9CHI5qQ"/>
+<attribute name="MFN" value="Panasonic"/>
+<attribute name="MPN" value="10TPU4R7MSI"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/10tpu4r7msi-panasonic-29487748"/>
 <attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="25V"/>
+<attribute name="VOLTAGE_RATING" value="10 V"/>
 </part>
-<part name="C7" library="Hexabitz" deviceset="C-0805-POL" device="" value="4.7uF">
-<attribute name="CAPACITANCE" value="4.7uF"/>
-<attribute name="MFN" value="Murata"/>
-<attribute name="MPN" value="GRM21BC81E475KA12L"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc81e475ka12l-murata-10331911?r=sp&amp;s=RY3qZSD8T6mG6TC9CHI5qQ"/>
-<attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="25V"/>
-</part>
-<part name="C1" library="Hexabitz" deviceset="C-0603" device="" value="10nF">
+<part name="C5" library="Hexabitz" deviceset="C-0603" device="" value="10nF">
 <attribute name="CAPACITANCE" value="10nF"/>
-<attribute name="MFN" value="KEMET"/>
-<attribute name="MPN" value="C0603C103K5RACTU"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c103k5ractu-kemet-133094?r=sp&amp;s=R_iPBxLnSmGqhkU2rIMFpg"/>
+<attribute name="MFN" value="AVX"/>
+<attribute name="MPN" value="0603YC103KAT4A"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc103kat4a-avx+interconnect+%2F+elco-2550362"/>
 <attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="50V"/>
-</part>
-<part name="C3" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
-<attribute name="CAPACITANCE" value="100nF"/>
-<attribute name="MFN" value="KEMET"/>
-<attribute name="MPN" value="C0603C104K8RACTU"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g"/>
-<attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="10V"/>
-</part>
-<part name="C5" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
-<attribute name="CAPACITANCE" value="100nF"/>
-<attribute name="MFN" value="KEMET"/>
-<attribute name="MPN" value="C0603C104K8RACTU"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g"/>
-<attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="10"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V"/>
 </part>
 <part name="C6" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
-<attribute name="MFN" value="KEMET"/>
-<attribute name="MPN" value="C0603C104K8RACTU"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g"/>
+<attribute name="MFN" value="AVX"/>
+<attribute name="MPN" value="0603YC104K4T2A"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651"/>
 <attribute name="TOLERANCE" value="10%"/>
-<attribute name="VOLTAGE_RATING" value="10V"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V"/>
+</part>
+<part name="C7" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
+<attribute name="CAPACITANCE" value="100nF"/>
+<attribute name="MFN" value="AVX"/>
+<attribute name="MPN" value="0603YC104K4T2A"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651"/>
+<attribute name="TOLERANCE" value="10%"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V"/>
+</part>
+<part name="C8" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
+<attribute name="CAPACITANCE" value="100nF"/>
+<attribute name="MFN" value="AVX"/>
+<attribute name="MPN" value="0603YC104K4T2A"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651"/>
+<attribute name="TOLERANCE" value="10%"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V"/>
 </part>
 <part name="C9" library="Hexabitz" deviceset="C-0603" device="" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
-<attribute name="MFN" value="KEMET"/>
-<attribute name="MPN" value="C0603C104K8RACTU"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g"/>
-<attribute name="TOLERANCE" value="10V"/>
+<attribute name="MFN" value="AVX"/>
+<attribute name="MPN" value="0603YC104K4T2A"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651"/>
+<attribute name="TOLERANCE" value="16.0 V"/>
 <attribute name="VOLTAGE_RATING" value="10%"/>
 </part>
-<part name="R2" library="Hexabitz" deviceset="R-0603" device="" value="0.0R">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603JR-070RL"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/rc0603jr-070rl-yageo-1241539?r=sp&amp;s=X2NteqRjRNWrnx42Y0aliA"/>
+<part name="R3" library="Hexabitz" deviceset="R-0603" device="" value="0.0R">
+<attribute name="MFN" value="Vishay"/>
+<attribute name="MPN" value="CRCW06030000Z0EAHP"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06030000z0eahp-vishay-44320230"/>
 <attribute name="RESISTANCE" value="0.0 Ohm"/>
 </part>
 <part name="SUPPLY3" library="supply2" deviceset="VCC" device="" value="VDDA"/>
@@ -4039,7 +4039,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="22.86" y="200.66" size="1.778" layer="94">VDD = +3.3V</text>
 </plain>
 <instances>
-<instance part="C8" gate="G$1" x="224.79" y="113.03" smashed="yes">
+<instance part="C1" gate="G$1" x="224.79" y="113.03" smashed="yes">
 <attribute name="NAME" x="226.314" y="115.951" size="1.778" layer="95"/>
 <attribute name="VALUE" x="226.314" y="110.871" size="1.778" layer="96"/>
 </instance>
@@ -4079,7 +4079,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="GND4" gate="1" x="203.2" y="119.38" smashed="yes" rot="R90">
 <attribute name="VALUE" x="209.55" y="119.38" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R3" gate="G$1" x="240.03" y="115.57" smashed="yes" rot="R90">
+<instance part="R2" gate="G$1" x="240.03" y="115.57" smashed="yes" rot="R90">
 <attribute name="NAME" x="245.11" y="117.8814" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="247.65" y="113.792" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -4089,27 +4089,27 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="GND8" gate="1" x="240.03" y="107.95" smashed="yes">
 <attribute name="VALUE" x="237.49" y="105.41" size="1.778" layer="96"/>
 </instance>
-<instance part="C4" gate="G$1" x="167.64" y="80.01" smashed="yes" rot="MR0">
+<instance part="C3" gate="G$1" x="167.64" y="80.01" smashed="yes" rot="MR0">
 <attribute name="NAME" x="172.974" y="80.645" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="176.784" y="77.089" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="C7" gate="G$1" x="209.55" y="81.28" smashed="yes" rot="MR0">
+<instance part="C4" gate="G$1" x="209.55" y="81.28" smashed="yes" rot="MR0">
 <attribute name="NAME" x="214.884" y="81.915" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="218.694" y="78.359" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="C1" gate="G$1" x="120.65" y="77.47" smashed="yes">
+<instance part="C5" gate="G$1" x="120.65" y="77.47" smashed="yes">
 <attribute name="NAME" x="122.174" y="80.391" size="1.778" layer="95"/>
 <attribute name="VALUE" x="122.174" y="75.311" size="1.778" layer="96"/>
 </instance>
-<instance part="C3" gate="G$1" x="156.21" y="78.74" smashed="yes">
+<instance part="C6" gate="G$1" x="156.21" y="78.74" smashed="yes">
 <attribute name="NAME" x="157.734" y="81.661" size="1.778" layer="95"/>
 <attribute name="VALUE" x="157.734" y="76.581" size="1.778" layer="96"/>
 </instance>
-<instance part="C5" gate="G$1" x="190.5" y="78.74" smashed="yes">
+<instance part="C7" gate="G$1" x="190.5" y="78.74" smashed="yes">
 <attribute name="NAME" x="192.024" y="81.661" size="1.778" layer="95"/>
 <attribute name="VALUE" x="192.024" y="76.581" size="1.778" layer="96"/>
 </instance>
-<instance part="C6" gate="G$1" x="199.39" y="78.74" smashed="yes">
+<instance part="C8" gate="G$1" x="199.39" y="78.74" smashed="yes">
 <attribute name="NAME" x="200.914" y="81.661" size="1.778" layer="95"/>
 <attribute name="VALUE" x="200.914" y="76.581" size="1.778" layer="96"/>
 </instance>
@@ -4117,7 +4117,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="NAME" x="233.934" y="81.661" size="1.778" layer="95"/>
 <attribute name="VALUE" x="233.934" y="76.581" size="1.778" layer="96"/>
 </instance>
-<instance part="R2" gate="G$1" x="204.47" y="54.61" smashed="yes" rot="R180">
+<instance part="R3" gate="G$1" x="204.47" y="54.61" smashed="yes" rot="R180">
 <attribute name="NAME" x="203.2" y="57.3786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="201.93" y="51.308" size="1.778" layer="96"/>
 </instance>
@@ -4219,22 +4219,22 @@ In this library the device names are the same as the pin names of the symbols, t
 </segment>
 <segment>
 <pinref part="SUPPLY8" gate="G$1" pin="VDD"/>
-<pinref part="C3" gate="G$1" pin="1"/>
+<pinref part="C6" gate="G$1" pin="1"/>
 <wire x1="156.21" y1="85.09" x2="156.21" y2="83.82" width="0.1524" layer="91"/>
-<pinref part="C4" gate="G$1" pin="+"/>
+<pinref part="C3" gate="G$1" pin="+"/>
 <wire x1="156.21" y1="85.09" x2="167.64" y2="85.09" width="0.1524" layer="91"/>
 <wire x1="167.64" y1="85.09" x2="167.64" y2="82.55" width="0.1524" layer="91"/>
 <junction x="156.21" y="85.09"/>
 </segment>
 <segment>
 <pinref part="SUPPLY10" gate="G$1" pin="VDD"/>
-<pinref part="C7" gate="G$1" pin="+"/>
+<pinref part="C4" gate="G$1" pin="+"/>
 <wire x1="190.5" y1="85.09" x2="199.39" y2="85.09" width="0.1524" layer="91"/>
 <wire x1="199.39" y1="85.09" x2="209.55" y2="85.09" width="0.1524" layer="91"/>
 <wire x1="209.55" y1="85.09" x2="209.55" y2="83.82" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="1"/>
+<pinref part="C8" gate="G$1" pin="1"/>
 <wire x1="199.39" y1="83.82" x2="199.39" y2="85.09" width="0.1524" layer="91"/>
-<pinref part="C5" gate="G$1" pin="1"/>
+<pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="190.5" y1="83.82" x2="190.5" y2="85.09" width="0.1524" layer="91"/>
 <junction x="199.39" y="85.09"/>
 <junction x="190.5" y="85.09"/>
@@ -4297,36 +4297,36 @@ In this library the device names are the same as the pin names of the symbols, t
 <junction x="198.12" y="119.38"/>
 </segment>
 <segment>
-<pinref part="C8" gate="G$1" pin="2"/>
+<pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="GND6" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="1"/>
 <pinref part="GND8" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="GND5" gate="1" pin="GND"/>
-<pinref part="R2" gate="G$1" pin="1"/>
+<pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="217.17" y1="54.61" x2="209.55" y2="54.61" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND2" gate="1" pin="GND"/>
-<pinref part="C4" gate="G$1" pin="-"/>
+<pinref part="C3" gate="G$1" pin="-"/>
 <wire x1="156.21" y1="72.39" x2="167.64" y2="72.39" width="0.1524" layer="91"/>
 <wire x1="167.64" y1="72.39" x2="167.64" y2="74.93" width="0.1524" layer="91"/>
-<pinref part="C3" gate="G$1" pin="2"/>
+<pinref part="C6" gate="G$1" pin="2"/>
 <wire x1="156.21" y1="72.39" x2="156.21" y2="76.2" width="0.1524" layer="91"/>
 <junction x="156.21" y="72.39"/>
 </segment>
 <segment>
 <pinref part="GND3" gate="1" pin="GND"/>
-<pinref part="C7" gate="G$1" pin="-"/>
+<pinref part="C4" gate="G$1" pin="-"/>
 <wire x1="190.5" y1="72.39" x2="199.39" y2="72.39" width="0.1524" layer="91"/>
 <wire x1="199.39" y1="72.39" x2="209.55" y2="72.39" width="0.1524" layer="91"/>
 <wire x1="209.55" y1="72.39" x2="209.55" y2="76.2" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="2"/>
+<pinref part="C8" gate="G$1" pin="2"/>
 <wire x1="199.39" y1="76.2" x2="199.39" y2="72.39" width="0.1524" layer="91"/>
-<pinref part="C5" gate="G$1" pin="2"/>
+<pinref part="C7" gate="G$1" pin="2"/>
 <wire x1="190.5" y1="72.39" x2="190.5" y2="76.2" width="0.1524" layer="91"/>
 <junction x="190.5" y="72.39"/>
 <junction x="199.39" y="72.39"/>
@@ -4469,7 +4469,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="C2" gate="G$1" pin="+"/>
 <wire x1="133.35" y1="82.55" x2="133.35" y2="85.09" width="0.1524" layer="91"/>
 <wire x1="133.35" y1="85.09" x2="120.65" y2="85.09" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="1"/>
+<pinref part="C5" gate="G$1" pin="1"/>
 <wire x1="120.65" y1="85.09" x2="120.65" y2="82.55" width="0.1524" layer="91"/>
 <pinref part="SUPPLY3" gate="G$1" pin="VCC"/>
 <junction x="120.65" y="85.09"/>
@@ -4501,7 +4501,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <segment>
 <pinref part="U1" gate="G$1" pin="PF11-OSC_BOOT0"/>
 <wire x1="191.77" y1="129.54" x2="240.03" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="240.03" y1="129.54" x2="250.19" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="240.03" y1="120.65" x2="240.03" y2="129.54" width="0.1524" layer="91"/>
 <junction x="240.03" y="129.54"/>
@@ -4511,7 +4511,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <net name="R1" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="NRST"/>
-<pinref part="C8" gate="G$1" pin="1"/>
+<pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="250.19" y1="124.46" x2="224.79" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="224.79" y1="124.46" x2="191.77" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="224.79" y1="118.11" x2="224.79" y2="124.46" width="0.1524" layer="91"/>
@@ -4521,7 +4521,7 @@ In this library the device names are the same as the pin names of the symbols, t
 </net>
 <net name="VSSA" class="0">
 <segment>
-<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="199.39" y1="54.61" x2="193.04" y2="54.61" width="0.1524" layer="91"/>
 <pinref part="SUPPLY11" gate="G$1" pin="AGND"/>
 </segment>
@@ -4529,7 +4529,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="C2" gate="G$1" pin="-"/>
 <wire x1="133.35" y1="74.93" x2="133.35" y2="72.39" width="0.1524" layer="91"/>
 <wire x1="133.35" y1="72.39" x2="120.65" y2="72.39" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="2"/>
+<pinref part="C5" gate="G$1" pin="2"/>
 <wire x1="120.65" y1="72.39" x2="120.65" y2="74.93" width="0.1524" layer="91"/>
 <pinref part="SUPPLY4" gate="G$1" pin="AGND"/>
 <junction x="120.65" y="72.39"/>

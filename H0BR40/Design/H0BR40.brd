@@ -1273,25 +1273,25 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="C8" library="Hexabitz" package="C-0603" value="100nF" x="43.209009375" y="37.80205625" smashed="yes" rot="MR90">
+<element name="C1" library="Hexabitz" package="C-0603" value="100nF" x="43.209009375" y="37.80205625" smashed="yes" rot="MR90">
 <attribute name="CAPACITANCE" value="100nF" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MFN" value="KEMET" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MPN" value="C0603C104K8RACTU" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MFN" value="AVX" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MPN" value="0603YC104K4T2A" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="44.27758125" y="36.466778125" size="1.016" layer="26" rot="MR90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="41.304009375" y="37.16705625" size="1.27" layer="28" rot="MR90"/>
-<attribute name="VOLTAGE_RATING" value="10V" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V" x="43.209009375" y="37.80205625" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
 <element name="C2" library="Hexabitz" package="C-0805-POL" value="1.00uF" x="43.358740625" y="31.682796875" smashed="yes" rot="MR90">
 <attribute name="CAPACITANCE" value="1.00uF" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MFN" value="Yageo" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MPN" value="CC0805KKX7R7BB105" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MFN" value="AVX" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MPN" value="TAJR105M016RNJ" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="44.42275" y="30.219240625" size="1.016" layer="26" rot="MR90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/cc0805kkx7r7bb105-yageo-8376555?r=sp&amp;s=YKl1wwtkROau_X5nniH2ig" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="OCTOPART_URL" value="http://octopart.com/tajr105m016rnj-avx-1188552" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="40.818740625" y="30.412796875" size="1.27" layer="28" rot="MR90"/>
-<attribute name="VOLTAGE_RATING" value="16V" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V" x="43.358740625" y="31.682796875" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
 <element name="D1" library="Hexabitz" package="VLMS1300-GS08" value="VLMS1300-GS08" x="24.768053125" y="31.106109375" smashed="yes" rot="R90">
 <attribute name="MFN" value="Vishay" x="24.768053125" y="31.106109375" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1308,12 +1308,12 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="46.151365625" y="32.386521875" size="1.27" layer="27"/>
 </element>
 <element name="R1" library="Hexabitz" package="R-0603" value="270.0R" x="24.02215" y="33.475678125" smashed="yes" rot="R90">
-<attribute name="MFN" value="Yageo" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="RC0603FR-07270RL" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFN" value="Panasonic" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="ERJ-3GEYJ271V" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="22.747325" y="32.670746875" size="1.016" layer="25" rot="R90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/search?q=RC0603FR-07270RL&amp;start=0" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/erj-3geyj271v-panasonic-55560546" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="270.0 Ohm" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TOLERANCE" value="5%" x="24.02215" y="33.475678125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="25.92715" y="32.840678125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="U1" library="Hexabitz" package="STM32F091CBU6" value="STM32F091CBU6" x="34.6202" y="34.6202" smashed="yes" rot="MR270">
@@ -1330,90 +1330,90 @@ design rules under a new name.</description>
 <attribute name="OCTOPART_URL" value="https://octopart.com/cstce8m00g52z-r0-murata-17755941?r=sp&amp;s=JDnNJnrHQhyS8Zk4ofFWXw" x="40.433525" y="35.482021875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="43.227525" y="31.926021875" size="1.27" layer="28" rot="MR0"/>
 </element>
-<element name="R3" library="Hexabitz" package="R-0603" value="10.0K" x="35.2099875" y="40.34715" smashed="yes" rot="MR270">
-<attribute name="MFN" value="Yageo" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="MPN" value="RC0603JR-0710KL" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
+<element name="R2" library="Hexabitz" package="R-0603" value="10.0K" x="35.2099875" y="40.34715" smashed="yes" rot="MR270">
+<attribute name="MFN" value="Vishay" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MPN" value="CRCW060310K0JNEB" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="NAME" x="34.210753125" y="41.751" size="1.016" layer="26" rot="MR270"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/search?q=RC0603JR-0710KL&amp;start=0" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw060310k0jneb-vishay-46603269" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="RESISTANCE" value="10.0K Ohm" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="TOLERANCE" value="5%" x="35.2099875" y="40.34715" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="VALUE" x="37.1149875" y="40.98215" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C4" library="Hexabitz" package="C-0805-POL" value="4.7uF" x="27.921209375" y="32.879284375" smashed="yes" rot="MR270">
+<element name="C3" library="Hexabitz" package="C-0805-POL" value="4.7uF" x="27.921209375" y="32.879284375" smashed="yes" rot="MR270">
 <attribute name="CAPACITANCE" value="4.7uF" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="MFN" value="Murata" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="MPN" value="GRM21BC81E475KA12L" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MFN" value="Panasonic" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="MPN" value="10TPU4R7MSI" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="NAME" x="29.0393375" y="31.25645625" size="1.016" layer="26" rot="MR90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc81e475ka12l-murata-10331911?r=sp&amp;s=RY3qZSD8T6mG6TC9CHI5qQ" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="TOLERANCE" value="10%" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/10tpu4r7msi-panasonic-29487748" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="TOLERANCE" value="20%" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="VALUE" x="30.461209375" y="34.149284375" size="1.27" layer="28" rot="MR270"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="VOLTAGE_RATING" value="10.0 V" x="27.921209375" y="32.879284375" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="C7" library="Hexabitz" package="C-0805-POL" value="4.7uF" x="27.387303125" y="39.838853125" smashed="yes" rot="MR90">
+<element name="C4" library="Hexabitz" package="C-0805-POL" value="4.7uF" x="27.387303125" y="39.838853125" smashed="yes" rot="MR90">
 <attribute name="CAPACITANCE" value="4.7uF" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MFN" value="Murata" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MPN" value="GRM21BC81E475KA12L" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MFN" value="Panasonic" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MPN" value="10TPU4R7MSI" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="28.079734375" y="36.607740625" size="1.016" layer="26" rot="MR0"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm21bc81e475ka12l-murata-10331911?r=sp&amp;s=RY3qZSD8T6mG6TC9CHI5qQ" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/10tpu4r7msi-panasonic-29487748" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="24.847303125" y="38.568853125" size="1.27" layer="28" rot="MR90"/>
-<attribute name="VOLTAGE_RATING" value="25V" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="VOLTAGE_RATING" value="10 V" x="27.387303125" y="39.838853125" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="C1" library="Hexabitz" package="C-0603" value="10nF" x="40.726609375" y="31.79236875" smashed="yes" rot="MR90">
+<element name="C5" library="Hexabitz" package="C-0603" value="10nF" x="40.726609375" y="31.79236875" smashed="yes" rot="MR90">
 <attribute name="CAPACITANCE" value="10nF" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MFN" value="KEMET" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MPN" value="C0603C103K5RACTU" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MFN" value="AVX" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MPN" value="0603YC103KAT4A" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="39.670984375" y="30.34965" size="1.016" layer="26" rot="MR270" align="bottom-right"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c103k5ractu-kemet-133094?r=sp&amp;s=R_iPBxLnSmGqhkU2rIMFpg" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc103kat4a-avx+interconnect+%2F+elco-2550362" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="38.821609375" y="31.15736875" size="1.27" layer="28" rot="MR90"/>
-<attribute name="VOLTAGE_RATING" value="50V" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V" x="40.726609375" y="31.79236875" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="C3" library="Hexabitz" package="C-0603" value="100nF" x="37.388290625" y="40.362378125" smashed="yes" rot="MR90">
+<element name="C6" library="Hexabitz" package="C-0603" value="100nF" x="37.388290625" y="40.362378125" smashed="yes" rot="MR90">
 <attribute name="CAPACITANCE" value="100nF" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MFN" value="KEMET" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MPN" value="C0603C104K8RACTU" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MFN" value="AVX" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MPN" value="0603YC104K4T2A" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="38.433759375" y="39.58565" size="1.016" layer="26" rot="MR90"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="35.483290625" y="39.727378125" size="1.27" layer="28" rot="MR90"/>
-<attribute name="VOLTAGE_RATING" value="10V" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V" x="37.388290625" y="40.362378125" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="C5" library="Hexabitz" package="C-0603" value="100nF" x="29.5475625" y="38.561515625" smashed="yes" rot="MR90">
+<element name="C7" library="Hexabitz" package="C-0603" value="100nF" x="29.5475625" y="38.561515625" smashed="yes" rot="MR90">
 <attribute name="CAPACITANCE" value="100nF" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MFN" value="KEMET" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MPN" value="C0603C104K8RACTU" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MFN" value="AVX" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MPN" value="0603YC104K4T2A" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="28.836628125" y="36.830240625" size="1.016" layer="26" rot="MR180"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="27.6425625" y="37.926515625" size="1.27" layer="28" rot="MR90"/>
-<attribute name="VOLTAGE_RATING" value="10" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V" x="29.5475625" y="38.561515625" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="C6" library="Hexabitz" package="C-0603" value="100nF" x="28.833825" y="29.74796875" smashed="yes" rot="MR0">
+<element name="C8" library="Hexabitz" package="C-0603" value="100nF" x="28.833825" y="29.74796875" smashed="yes" rot="MR0">
 <attribute name="CAPACITANCE" value="100nF" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MFN" value="KEMET" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="C0603C104K8RACTU" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MFN" value="AVX" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="0603YC104K4T2A" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="NAME" x="27.3209375" y="28.70678125" size="1.016" layer="26" rot="MR180"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="29.468825" y="27.84296875" size="1.27" layer="28" rot="MR0"/>
-<attribute name="VOLTAGE_RATING" value="10V" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VOLTAGE_RATING" value="16.0 V" x="28.833825" y="29.74796875" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
 <element name="C9" library="Hexabitz" package="C-0603" value="100nF" x="40.615871875" y="38.647371875" smashed="yes" rot="MR180">
 <attribute name="CAPACITANCE" value="100nF" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MFN" value="KEMET" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="C0603C104K8RACTU" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MFN" value="AVX" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="0603YC104K4T2A" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="NAME" x="42.119296875" y="39.69511875" size="1.016" layer="26" rot="MR0"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/c0603c104k8ractu-kemet-145075?r=sp&amp;s=9bS9ASSwSEqMCE9KBEQZ0g" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="TOLERANCE" value="10V" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="TOLERANCE" value="16.0 V" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="39.980871875" y="40.552371875" size="1.27" layer="28" rot="MR180"/>
 <attribute name="VOLTAGE_RATING" value="10%" x="40.615871875" y="38.647371875" size="1.778" layer="28" rot="MR180" display="off"/>
 </element>
-<element name="R2" library="Hexabitz" package="R-0603" value="0.0R" x="45.89628125" y="34.941253125" smashed="yes" rot="MR0">
-<attribute name="MFN" value="Yageo" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="RC0603JR-070RL" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
+<element name="R3" library="Hexabitz" package="R-0603" value="0.0R" x="45.89628125" y="34.941253125" smashed="yes" rot="MR0">
+<attribute name="MFN" value="Vishay" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="CRCW06030000Z0EAHP" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="NAME" x="47.428659375" y="35.97045625" size="1.016" layer="26" rot="MR0"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/rc0603jr-070rl-yageo-1241539?r=sp&amp;s=X2NteqRjRNWrnx42Y0aliA" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06030000z0eahp-vishay-44320230" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="RESISTANCE" value="0.0 Ohm" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="TOLERANCE" value="" x="45.89628125" y="34.941253125" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="46.53128125" y="33.036253125" size="1.27" layer="28" rot="MR0"/>
@@ -1534,14 +1534,14 @@ design rules under a new name.</description>
 <contactref element="X1" pad="P$2"/>
 <contactref element="U1" pad="P$23"/>
 <contactref element="U1" pad="P$35"/>
-<contactref element="C8" pad="2"/>
-<contactref element="R3" pad="1"/>
+<contactref element="C1" pad="2"/>
 <contactref element="R2" pad="1"/>
-<contactref element="C4" pad="2"/>
+<contactref element="R3" pad="1"/>
 <contactref element="C3" pad="2"/>
-<contactref element="C7" pad="2"/>
 <contactref element="C6" pad="2"/>
-<contactref element="C5" pad="2"/>
+<contactref element="C4" pad="2"/>
+<contactref element="C8" pad="2"/>
+<contactref element="C7" pad="2"/>
 <contactref element="C9" pad="2"/>
 <wire x1="40.433525" y1="35.482021875" x2="41.115234375" y2="35.482021875" width="0.3048" layer="16"/>
 <wire x1="41.115234375" y1="35.482021875" x2="41.457625" y2="35.8244125" width="0.3048" layer="16"/>
@@ -1692,11 +1692,11 @@ design rules under a new name.</description>
 <contactref element="U1" pad="P$48"/>
 <contactref element="U1" pad="P$24"/>
 <contactref element="FB1" pad="2"/>
+<contactref element="C6" pad="1"/>
 <contactref element="C3" pad="1"/>
 <contactref element="C4" pad="1"/>
+<contactref element="C8" pad="1"/>
 <contactref element="C7" pad="1"/>
-<contactref element="C6" pad="1"/>
-<contactref element="C5" pad="1"/>
 <contactref element="C9" pad="1"/>
 <wire x1="39.765871875" y1="38.647371875" x2="39.18870625" y2="38.07020625" width="0.3048" layer="16"/>
 <wire x1="39.18870625" y1="38.07020625" x2="38.074346875" y2="38.07020625" width="0.3048" layer="16"/>
@@ -1868,7 +1868,7 @@ design rules under a new name.</description>
 <signal name="VDDA">
 <contactref element="U1" pad="P$9"/>
 <contactref element="C2" pad="1"/>
-<contactref element="C1" pad="1"/>
+<contactref element="C5" pad="1"/>
 <contactref element="FB1" pad="1"/>
 <wire x1="40.726609375" y1="30.94236875" x2="43.14916875" y2="30.94236875" width="0.3048" layer="16"/>
 <wire x1="43.14916875" y1="30.94236875" x2="43.358740625" y2="30.732796875" width="0.3048" layer="16"/>
@@ -1920,7 +1920,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="B1">
 <contactref element="U1" pad="P$44"/>
-<contactref element="R3" pad="2"/>
+<contactref element="R2" pad="2"/>
 <contactref element="B" pad="P$2"/>
 <contactref element="B" pad="P$1"/>
 <wire x1="35.3702" y1="38.07020625" x2="35.3702" y2="39.3369375" width="0.3048" layer="16"/>
@@ -1937,7 +1937,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="R1">
 <contactref element="U1" pad="P$7"/>
-<contactref element="C8" pad="1"/>
+<contactref element="C1" pad="1"/>
 <contactref element="R" pad="P$2"/>
 <contactref element="R" pad="P$1"/>
 <wire x1="38.07020625" y1="34.3702" x2="38.729225" y2="34.3702" width="0.2032" layer="16"/>
@@ -1955,9 +1955,9 @@ design rules under a new name.</description>
 <wire x1="46.218859375" y1="38.693340625" x2="46.218859375" y2="37.2991375" width="0.3048" layer="1"/>
 </signal>
 <signal name="VSSA">
-<contactref element="R2" pad="2"/>
+<contactref element="R3" pad="2"/>
 <contactref element="C2" pad="2"/>
-<contactref element="C1" pad="2"/>
+<contactref element="C5" pad="2"/>
 <contactref element="U1" pad="P$8"/>
 <wire x1="43.358740625" y1="32.632796875" x2="44.4463375" y2="32.632796875" width="0.3048" layer="16"/>
 <wire x1="44.4463375" y1="32.632796875" x2="45.040296875" y2="33.22675625" width="0.3048" layer="16"/>
