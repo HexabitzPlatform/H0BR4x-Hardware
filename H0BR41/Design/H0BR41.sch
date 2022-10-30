@@ -3503,7 +3503,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </classes>
 <parts>
 <part name="D1" library="HEXABITZ_USER_INTERFACE_PARTS" library_urn="urn:adsk.eagle:library:20064563" deviceset="VLMS1300-GS08" device="" package3d_urn="urn:adsk.eagle:package:20064571/2" value="RED"/>
-<part name="C1" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
+<part name="C6" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
 <attribute name="MFN" value="AVX CORPORATION"/>
 <attribute name="MPN" value="'0603YC104K4T2A"/>
@@ -3541,7 +3541,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C4" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
+<part name="C1" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
 <attribute name="MFN" value="AVX CORPORATION"/>
 <attribute name="MPN" value="'0603YC104K4T2A"/>
@@ -3549,7 +3549,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="16.0 V"/>
 </part>
-<part name="C5" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
+<part name="C8" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
 <attribute name="MFN" value="AVX CORPORATION"/>
 <attribute name="MPN" value="'0603YC104K4T2A"/>
@@ -3565,7 +3565,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="16.0 V"/>
 </part>
-<part name="C8" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0805-POL" device="" package3d_urn="urn:adsk.eagle:package:19666467/2" value="1uF">
+<part name="C2" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0805-POL" device="" package3d_urn="urn:adsk.eagle:package:19666467/2" value="1uF">
 <attribute name="CAPACITANCE" value="1.00uF"/>
 <attribute name="MFN" value="'YAGEO [VA]"/>
 <attribute name="MPN" value="'CC0805KKX7R7BB105"/>
@@ -3579,7 +3579,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="OCTOPART_URL" value="https://octopart.com/search?q=060300J0103T5E&amp;currency=USD&amp;specs=0"/>
 <attribute name="RESISTANCE" value="10K"/>
 </part>
-<part name="C6" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0805-POL" device="" package3d_urn="urn:adsk.eagle:package:19666467/2" value="4.7uF">
+<part name="C4" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0805-POL" device="" package3d_urn="urn:adsk.eagle:package:19666467/2" value="4.7uF">
 <attribute name="CAPACITANCE" value="4.7uF"/>
 <attribute name="MFN" value="Panasonic"/>
 <attribute name="MPN" value="10TPU4R7MSI"/>
@@ -3602,7 +3602,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </part>
 <part name="SUPPLY13" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="SUPPLY16" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
-<part name="C9" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0805-POL" device="" package3d_urn="urn:adsk.eagle:package:19666467/2" value="220nF">
+<part name="C14" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0805-POL" device="" package3d_urn="urn:adsk.eagle:package:19666467/2" value="220nF">
 <attribute name="CAPACITANCE" value="4.7uF"/>
 <attribute name="MFN" value="KEMET "/>
 <attribute name="MPN" value="C0805C224K1RACTU"/>
@@ -3614,14 +3614,14 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <part name="SUPPLY12" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="U2" library="HEXABITZ_ICs" library_urn="urn:adsk.eagle:library:20064554" deviceset="LSM6DS3TR-C" device="" package3d_urn="urn:adsk.eagle:package:19881595/4"/>
 <part name="P1" library="hexabitz_connectors" library_urn="urn:adsk.eagle:library:20064578" deviceset="HEXABIT_?" device="17.32" package3d_urn="urn:adsk.eagle:package:20064637/1"/>
-<part name="R8" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0603" device="" package3d_urn="urn:adsk.eagle:package:1435818/5" value="2.2K">
+<part name="R5" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0603" device="" package3d_urn="urn:adsk.eagle:package:1435818/5" value="2.2K">
 <attribute name="MFN" value="Yageo"/>
 <attribute name="MPN" value="RC0603FR-072K2L"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/rc0603fr-072k2l-yageo-1214512?r=sp"/>
 <attribute name="RESISTANCE" value="2.2K Ohm"/>
 <attribute name="TOLERANCE" value="5%"/>
 </part>
-<part name="R9" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0603" device="" package3d_urn="urn:adsk.eagle:package:1435818/5" value="2.2K">
+<part name="R4" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0603" device="" package3d_urn="urn:adsk.eagle:package:1435818/5" value="2.2K">
 <attribute name="MFN" value="Yageo"/>
 <attribute name="MPN" value="RC0603FR-072K2L"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/rc0603fr-072k2l-yageo-1214512?r=sp"/>
@@ -3632,7 +3632,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <part name="SUPPLY19" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="SUPPLY20" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="GND17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C12" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
+<part name="C10" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
 <attribute name="MFN" value="AVX CORPORATION"/>
 <attribute name="MPN" value="'0603YC104K4T2A"/>
@@ -3642,7 +3642,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </part>
 <part name="SUPPLY21" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="GND19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C13" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
+<part name="C11" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
 <attribute name="MFN" value="AVX CORPORATION"/>
 <attribute name="MPN" value="'0603YC104K4T2A"/>
@@ -3650,7 +3650,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="TOLERANCE" value="10%"/>
 <attribute name="VOLTAGE_RATING" value="16.0 V"/>
 </part>
-<part name="C14" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
+<part name="C12" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
 <attribute name="MFN" value="AVX CORPORATION"/>
 <attribute name="MPN" value="'0603YC104K4T2A"/>
@@ -3660,7 +3660,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </part>
 <part name="SUPPLY22" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
 <part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C15" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
+<part name="C13" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0603" device="" package3d_urn="urn:adsk.eagle:package:19666468/2" value="100nF">
 <attribute name="CAPACITANCE" value="100nF"/>
 <attribute name="MFN" value="AVX CORPORATION"/>
 <attribute name="MPN" value="'0603YC104K4T2A"/>
@@ -6055,7 +6055,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="NAME" x="125.2855" y="108.99775" size="1.778" layer="95"/>
 <attribute name="VALUE" x="121.31675" y="104.29875" size="1.778" layer="96"/>
 </instance>
-<instance part="C1" gate="G$1" x="146.05" y="63.5" smashed="yes" rot="R180">
+<instance part="C6" gate="G$1" x="146.05" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="144.526" y="60.579" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="144.526" y="65.659" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -6102,11 +6102,11 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <instance part="GND13" gate="1" x="46.99" y="106.68" smashed="yes">
 <attribute name="VALUE" x="44.60875" y="104.29875" size="1.778" layer="96"/>
 </instance>
-<instance part="C4" gate="G$1" x="109.22" y="147.32" smashed="yes" rot="R180">
+<instance part="C1" gate="G$1" x="109.22" y="147.32" smashed="yes" rot="R180">
 <attribute name="NAME" x="106.426" y="148.209" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="108.80725" y="145.034" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C5" gate="G$1" x="207.01" y="63.5" smashed="yes" rot="R180">
+<instance part="C8" gate="G$1" x="207.01" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="205.486" y="60.579" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="205.486" y="65.659" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -6114,7 +6114,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="NAME" x="177.546" y="61.849" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="177.546" y="66.929" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C8" gate="G$1" x="187.96" y="64.77" smashed="yes">
+<instance part="C2" gate="G$1" x="187.96" y="64.77" smashed="yes">
 <attribute name="NAME" x="188.976" y="65.405" size="1.778" layer="95"/>
 <attribute name="VALUE" x="188.976" y="60.579" size="1.778" layer="96"/>
 </instance>
@@ -6122,7 +6122,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="NAME" x="252.97765" y="131.7625" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="248.88825" y="132.715" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="C6" gate="G$1" x="215.9" y="63.5" smashed="yes">
+<instance part="C4" gate="G$1" x="215.9" y="63.5" smashed="yes">
 <attribute name="NAME" x="216.916" y="64.135" size="1.778" layer="95"/>
 <attribute name="VALUE" x="216.916" y="59.309" size="1.778" layer="96"/>
 </instance>
@@ -6217,12 +6217,12 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <junction x="46.99" y="177.8"/>
 </segment>
 <segment>
-<pinref part="C6" gate="G$1" pin="+"/>
+<pinref part="C4" gate="G$1" pin="+"/>
 <wire x1="215.9" y1="66.04" x2="215.9" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="68.58" x2="207.01" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="SUPPLY5" gate="G$1" pin="VDD"/>
 <wire x1="207.01" y1="68.58" x2="207.01" y2="71.12" width="0.1524" layer="91"/>
-<pinref part="C5" gate="G$1" pin="2"/>
+<pinref part="C8" gate="G$1" pin="2"/>
 <wire x1="207.01" y1="66.04" x2="207.01" y2="68.58" width="0.1524" layer="91"/>
 <junction x="207.01" y="68.58"/>
 </segment>
@@ -6267,9 +6267,9 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </segment>
 <segment>
 <pinref part="GND10" gate="1" pin="GND"/>
-<pinref part="C5" gate="G$1" pin="1"/>
+<pinref part="C8" gate="G$1" pin="1"/>
 <wire x1="207.01" y1="55.88" x2="207.01" y2="57.15" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="-"/>
+<pinref part="C4" gate="G$1" pin="-"/>
 <wire x1="207.01" y1="57.15" x2="207.01" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="58.42" x2="215.9" y2="57.15" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="57.15" x2="207.01" y2="57.15" width="0.1524" layer="91"/>
@@ -6288,7 +6288,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </segment>
 <segment>
 <pinref part="GND9" gate="1" pin="GND"/>
-<pinref part="C4" gate="G$1" pin="1"/>
+<pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="109.22" y1="140.97" x2="109.22" y2="142.24" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -6351,14 +6351,14 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <pinref part="SUPPLY6" gate="G$1" pin="VCC"/>
 <pinref part="C7" gate="G$1" pin="2"/>
 <wire x1="179.07" y1="71.12" x2="179.07" y2="69.85" width="0.1524" layer="91"/>
-<pinref part="C8" gate="G$1" pin="+"/>
+<pinref part="C2" gate="G$1" pin="+"/>
 <wire x1="179.07" y1="69.85" x2="179.07" y2="67.31" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="67.31" x2="187.96" y2="69.85" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="69.85" x2="179.07" y2="69.85" width="0.1524" layer="91"/>
 <junction x="179.07" y="69.85"/>
 </segment>
 <segment>
-<pinref part="C1" gate="G$1" pin="2"/>
+<pinref part="C6" gate="G$1" pin="2"/>
 <pinref part="SUPPLY4" gate="G$1" pin="VCC"/>
 <wire x1="146.05" y1="66.04" x2="146.05" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="+"/>
@@ -6392,7 +6392,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <pinref part="SUPPLY14" gate="G$1" pin="GND1"/>
 <pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="179.07" y1="55.88" x2="179.07" y2="57.15" width="0.1524" layer="91"/>
-<pinref part="C8" gate="G$1" pin="-"/>
+<pinref part="C2" gate="G$1" pin="-"/>
 <wire x1="179.07" y1="57.15" x2="179.07" y2="59.69" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="59.69" x2="187.96" y2="57.15" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="57.15" x2="179.07" y2="57.15" width="0.1524" layer="91"/>
@@ -6400,7 +6400,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </segment>
 <segment>
 <pinref part="SUPPLY10" gate="G$1" pin="GND1"/>
-<pinref part="C1" gate="G$1" pin="1"/>
+<pinref part="C6" gate="G$1" pin="1"/>
 <wire x1="146.05" y1="55.88" x2="146.05" y2="57.15" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="-"/>
 <wire x1="146.05" y1="57.15" x2="146.05" y2="58.42" width="0.1524" layer="91"/>
@@ -6439,7 +6439,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </net>
 <net name="R" class="0">
 <segment>
-<pinref part="C4" gate="G$1" pin="2"/>
+<pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="J3" gate="G$1" pin="1"/>
 <wire x1="109.22" y1="152.4" x2="109.22" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="102.87" y1="152.4" x2="109.22" y2="152.4" width="0.1524" layer="91"/>
@@ -15007,7 +15007,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <instance part="SUPPLY16" gate="G$1" x="172.72" y="179.07" smashed="yes">
 <attribute name="VALUE" x="170.815" y="182.245" size="1.778" layer="96"/>
 </instance>
-<instance part="C9" gate="G$1" x="149.86" y="59.69" smashed="yes">
+<instance part="C14" gate="G$1" x="149.86" y="59.69" smashed="yes">
 <attribute name="NAME" x="150.876" y="60.325" size="1.778" layer="95"/>
 <attribute name="VALUE" x="150.876" y="55.499" size="1.778" layer="96"/>
 </instance>
@@ -15015,11 +15015,11 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <attribute name="NAME" x="181.76" y="162.63" size="1.778" layer="95" align="center-left"/>
 <attribute name="VALUE" x="184.11" y="139.12125" size="1.778" layer="96" align="center-left"/>
 </instance>
-<instance part="R8" gate="G$1" x="172.72" y="167.64" smashed="yes" rot="R270">
+<instance part="R5" gate="G$1" x="172.72" y="167.64" smashed="yes" rot="R270">
 <attribute name="NAME" x="169.1386" y="168.91" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="174.498" y="170.18" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="R9" gate="G$1" x="163.83" y="167.64" smashed="yes" rot="R270">
+<instance part="R4" gate="G$1" x="163.83" y="167.64" smashed="yes" rot="R270">
 <attribute name="NAME" x="160.2486" y="168.91" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="165.608" y="170.18" size="1.778" layer="96" rot="R270"/>
 </instance>
@@ -15035,7 +15035,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <instance part="GND17" gate="1" x="219.71" y="137.16" smashed="yes">
 <attribute name="VALUE" x="217.17" y="134.62" size="1.778" layer="96"/>
 </instance>
-<instance part="C12" gate="G$1" x="66.04" y="152.4" smashed="yes" rot="R180">
+<instance part="C10" gate="G$1" x="66.04" y="152.4" smashed="yes" rot="R180">
 <attribute name="NAME" x="64.516" y="149.479" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="64.516" y="154.559" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -15045,11 +15045,11 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <instance part="GND19" gate="1" x="66.04" y="140.97" smashed="yes">
 <attribute name="VALUE" x="63.5" y="138.43" size="1.778" layer="96"/>
 </instance>
-<instance part="C13" gate="G$1" x="77.47" y="152.4" smashed="yes" rot="R180">
+<instance part="C11" gate="G$1" x="77.47" y="152.4" smashed="yes" rot="R180">
 <attribute name="NAME" x="75.946" y="149.479" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="75.946" y="154.559" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C14" gate="G$1" x="68.58" y="74.93" smashed="yes" rot="R180">
+<instance part="C12" gate="G$1" x="68.58" y="74.93" smashed="yes" rot="R180">
 <attribute name="NAME" x="67.056" y="72.009" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="67.056" y="77.089" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -15059,7 +15059,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <instance part="GND20" gate="1" x="68.58" y="64.77" smashed="yes">
 <attribute name="VALUE" x="66.04" y="62.23" size="1.778" layer="96"/>
 </instance>
-<instance part="C15" gate="G$1" x="80.01" y="74.93" smashed="yes" rot="R180">
+<instance part="C13" gate="G$1" x="80.01" y="74.93" smashed="yes" rot="R180">
 <attribute name="NAME" x="78.486" y="72.009" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="78.486" y="77.089" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -15086,7 +15086,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </segment>
 <segment>
 <pinref part="GND21" gate="1" pin="GND"/>
-<pinref part="C9" gate="G$1" pin="-"/>
+<pinref part="C14" gate="G$1" pin="-"/>
 <wire x1="149.86" y1="53.34" x2="149.86" y2="54.61" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -15101,9 +15101,9 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </segment>
 <segment>
 <pinref part="GND20" gate="1" pin="GND"/>
-<pinref part="C14" gate="G$1" pin="1"/>
+<pinref part="C12" gate="G$1" pin="1"/>
 <wire x1="68.58" y1="67.31" x2="68.58" y2="68.58" width="0.1524" layer="91"/>
-<pinref part="C15" gate="G$1" pin="1"/>
+<pinref part="C13" gate="G$1" pin="1"/>
 <wire x1="68.58" y1="68.58" x2="68.58" y2="69.85" width="0.1524" layer="91"/>
 <wire x1="80.01" y1="69.85" x2="80.01" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="80.01" y1="68.58" x2="68.58" y2="68.58" width="0.1524" layer="91"/>
@@ -15111,9 +15111,9 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </segment>
 <segment>
 <pinref part="GND19" gate="1" pin="GND"/>
-<pinref part="C12" gate="G$1" pin="1"/>
+<pinref part="C10" gate="G$1" pin="1"/>
 <wire x1="66.04" y1="143.51" x2="66.04" y2="146.05" width="0.1524" layer="91"/>
-<pinref part="C13" gate="G$1" pin="1"/>
+<pinref part="C11" gate="G$1" pin="1"/>
 <wire x1="66.04" y1="146.05" x2="66.04" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="77.47" y1="147.32" x2="77.47" y2="146.05" width="0.1524" layer="91"/>
 <wire x1="77.47" y1="146.05" x2="66.04" y2="146.05" width="0.1524" layer="91"/>
@@ -15136,12 +15136,12 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <junction x="218.44" y="156.21"/>
 </segment>
 <segment>
-<pinref part="R9" gate="G$1" pin="1"/>
+<pinref part="R4" gate="G$1" pin="1"/>
 <pinref part="SUPPLY17" gate="G$1" pin="VDD"/>
 <wire x1="163.83" y1="172.72" x2="163.83" y2="176.53" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R8" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="1"/>
 <pinref part="SUPPLY16" gate="G$1" pin="VDD"/>
 <wire x1="172.72" y1="172.72" x2="172.72" y2="176.53" width="0.1524" layer="91"/>
 </segment>
@@ -15182,20 +15182,20 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <junction x="233.68" y="74.93"/>
 </segment>
 <segment>
-<pinref part="C14" gate="G$1" pin="2"/>
+<pinref part="C12" gate="G$1" pin="2"/>
 <pinref part="SUPPLY22" gate="G$1" pin="VDD"/>
 <wire x1="68.58" y1="77.47" x2="68.58" y2="80.01" width="0.1524" layer="91"/>
-<pinref part="C15" gate="G$1" pin="2"/>
+<pinref part="C13" gate="G$1" pin="2"/>
 <wire x1="68.58" y1="80.01" x2="68.58" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="80.01" y1="77.47" x2="80.01" y2="80.01" width="0.1524" layer="91"/>
 <wire x1="80.01" y1="80.01" x2="68.58" y2="80.01" width="0.1524" layer="91"/>
 <junction x="68.58" y="80.01"/>
 </segment>
 <segment>
-<pinref part="C12" gate="G$1" pin="2"/>
+<pinref part="C10" gate="G$1" pin="2"/>
 <pinref part="SUPPLY21" gate="G$1" pin="VDD"/>
 <wire x1="66.04" y1="154.94" x2="66.04" y2="156.21" width="0.1524" layer="91"/>
-<pinref part="C13" gate="G$1" pin="2"/>
+<pinref part="C11" gate="G$1" pin="2"/>
 <wire x1="66.04" y1="156.21" x2="66.04" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="77.47" y1="154.94" x2="77.47" y2="156.21" width="0.1524" layer="91"/>
 <wire x1="77.47" y1="156.21" x2="66.04" y2="156.21" width="0.1524" layer="91"/>
@@ -15209,7 +15209,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <wire x1="175.26" y1="158.75" x2="175.26" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="175.26" y1="160.02" x2="163.83" y2="160.02" width="0.1524" layer="91"/>
 <label x="160.02" y="160.02" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="R9" gate="G$1" pin="2"/>
+<pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="163.83" y1="160.02" x2="160.02" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="163.83" y1="162.56" x2="163.83" y2="160.02" width="0.1524" layer="91"/>
 <junction x="163.83" y="160.02"/>
@@ -15225,7 +15225,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <pinref part="U2" gate="G$1" pin="SCL"/>
 <wire x1="176.53" y1="156.21" x2="172.72" y2="156.21" width="0.1524" layer="91"/>
 <label x="160.02" y="156.21" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="172.72" y1="156.21" x2="160.02" y2="156.21" width="0.1524" layer="91"/>
 <wire x1="172.72" y1="162.56" x2="172.72" y2="156.21" width="0.1524" layer="91"/>
 <junction x="172.72" y="156.21"/>
@@ -15275,7 +15275,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 <pinref part="U3" gate="G$0" pin="C1"/>
 <wire x1="149.86" y1="62.23" x2="149.86" y2="74.93" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="74.93" x2="180.34" y2="74.93" width="0.1524" layer="91"/>
-<pinref part="C9" gate="G$1" pin="+"/>
+<pinref part="C14" gate="G$1" pin="+"/>
 </segment>
 </net>
 <net name="XL_INT2" class="0">
