@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.025" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -4282,7 +4282,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="-1.5" y1="-1.25" x2="-1.5" y2="1.25" width="0.2" layer="51"/>
 <circle x="-1.905" y="0.98" radius="0.027" width="0.2" layer="25"/>
 </package>
-<package name="STMICROELECTRONICS_LSM303AGRTR_0" urn="urn:adsk.eagle:footprint:34184925/3" library_version="157">
+<package name="STMICROELECTRONICS_LSM303AGRTR_0" urn="urn:adsk.eagle:footprint:34184925/3" locally_modified="yes" library_version="167" library_locally_modified="yes">
 <description>Accelerometer, Magnetometer, Temperature, 3 Axis Sensor I²C, SPI Output</description>
 <wire x1="-1.05" y1="-1.05" x2="-1.05" y2="1.05" width="0.15" layer="51"/>
 <wire x1="-1.05" y1="1.05" x2="1.05" y2="1.05" width="0.15" layer="51"/>
@@ -4293,18 +4293,18 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="1.35" y1="1.35" x2="1.35" y2="-1.35" width="0.15" layer="21"/>
 <wire x1="1.35" y1="-1.35" x2="-1.35" y2="-1.35" width="0.15" layer="21"/>
 <text x="-1.475" y="1.55" size="1" layer="25">&gt;NAME</text>
-<smd name="1" x="-0.762" y="0.75" dx="0.375" dy="0.35" layer="1"/>
-<smd name="2" x="-0.762" y="0.25" dx="0.375" dy="0.35" layer="1"/>
-<smd name="3" x="-0.762" y="-0.25" dx="0.375" dy="0.35" layer="1"/>
-<smd name="4" x="-0.762" y="-0.75" dx="0.375" dy="0.35" layer="1"/>
-<smd name="7" x="0.762" y="-0.75" dx="0.375" dy="0.35" layer="1"/>
-<smd name="8" x="0.762" y="-0.25" dx="0.375" dy="0.35" layer="1"/>
-<smd name="9" x="0.762" y="0.25" dx="0.375" dy="0.35" layer="1"/>
-<smd name="10" x="0.762" y="0.75" dx="0.375" dy="0.35" layer="1"/>
-<smd name="5" x="-0.25" y="-0.762" dx="0.35" dy="0.375" layer="1"/>
-<smd name="6" x="0.25" y="-0.762" dx="0.35" dy="0.375" layer="1"/>
-<smd name="11" x="0.25" y="0.762" dx="0.35" dy="0.375" layer="1"/>
-<smd name="12" x="-0.25" y="0.762" dx="0.35" dy="0.375" layer="1"/>
+<smd name="1" x="-0.762" y="0.75" dx="0.275" dy="0.25" layer="1"/>
+<smd name="2" x="-0.762" y="0.25" dx="0.275" dy="0.25" layer="1"/>
+<smd name="3" x="-0.762" y="-0.25" dx="0.275" dy="0.25" layer="1"/>
+<smd name="4" x="-0.762" y="-0.75" dx="0.275" dy="0.25" layer="1"/>
+<smd name="7" x="0.762" y="-0.75" dx="0.275" dy="0.25" layer="1"/>
+<smd name="8" x="0.762" y="-0.25" dx="0.275" dy="0.25" layer="1"/>
+<smd name="9" x="0.762" y="0.25" dx="0.275" dy="0.25" layer="1"/>
+<smd name="10" x="0.762" y="0.75" dx="0.275" dy="0.25" layer="1"/>
+<smd name="5" x="-0.25" y="-0.762" dx="0.25" dy="0.275" layer="1"/>
+<smd name="6" x="0.25" y="-0.762" dx="0.25" dy="0.275" layer="1"/>
+<smd name="11" x="0.25" y="0.762" dx="0.25" dy="0.275" layer="1"/>
+<smd name="12" x="-0.25" y="0.762" dx="0.25" dy="0.275" layer="1"/>
 <circle x="-0.7874" y="1.8796" radius="0.08031875" width="0.1524" layer="21"/>
 </package>
 <package name="HEXABITZ_ICS_UFQFPN48_STM32_STM" urn="urn:adsk.eagle:footprint:39679331/3" library_version="157">
@@ -4621,7 +4621,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <vertex x="1.5224" y="-1.5224"/>
 </polygon>
 </package>
-<package name="HEXABITZ_ICS_QFN_B1CEU6_STM-L" urn="urn:adsk.eagle:footprint:39679330/6" library_version="157">
+<package name="HEXABITZ_ICS_QFN_B1CEU6_STM-L" urn="urn:adsk.eagle:footprint:39679330/6" locally_modified="yes" library_version="167" library_locally_modified="yes">
 <wire x1="-3.683" y1="-3.683" x2="-3.185" y2="-3.683" width="0.1524" layer="21"/>
 <wire x1="3.683" y1="-3.683" x2="3.683" y2="-3.185" width="0.1524" layer="21"/>
 <wire x1="3.683" y1="3.683" x2="3.185" y2="3.683" width="0.1524" layer="21"/>
@@ -4748,54 +4748,54 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="3.556" y1="-3.556" x2="3.556" y2="2.7507" width="0.1524" layer="51"/>
 <wire x1="3.556" y1="3.556" x2="-3.556" y2="3.556" width="0.1524" layer="51"/>
 <wire x1="-3.556" y1="3.556" x2="-3.556" y2="-3.556" width="0.1524" layer="51"/>
-<smd name="1" x="-3.38" y="2.7507" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="2" x="-3.38" y="2.2506" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="3" x="-3.38" y="1.7504" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="4" x="-3.38" y="1.2503" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="5" x="-3.38" y="0.7502" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="6" x="-3.38" y="0.2501" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="7" x="-3.38" y="-0.2501" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="8" x="-3.38" y="-0.7502" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="9" x="-3.38" y="-1.2503" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="10" x="-3.38" y="-1.7504" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="11" x="-3.38" y="-2.2506" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="12" x="-3.38" y="-2.7507" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="13" x="-2.7507" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="14" x="-2.2506" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="15" x="-1.7504" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="16" x="-1.2503" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="17" x="-0.7502" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="18" x="-0.2501" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="19" x="0.2501" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="20" x="0.7502" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="21" x="1.2503" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="22" x="1.7504" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="23" x="2.2506" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="24" x="2.7507" y="-3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="25" x="3.38" y="-2.7507" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="26" x="3.38" y="-2.2506" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="27" x="3.38" y="-1.7504" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="28" x="3.38" y="-1.2503" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="29" x="3.38" y="-0.7502" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="30" x="3.38" y="-0.2501" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="31" x="3.38" y="0.2501" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="32" x="3.38" y="0.7502" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="33" x="3.38" y="1.2503" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="34" x="3.38" y="1.7504" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="35" x="3.38" y="2.2506" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="36" x="3.38" y="2.7507" dx="0.29718125" dy="0.55" layer="1" rot="R270"/>
-<smd name="37" x="2.7507" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="38" x="2.2506" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="39" x="1.7504" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="40" x="1.2503" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="41" x="0.7502" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="42" x="0.2501" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="43" x="-0.2501" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="44" x="-0.7502" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="45" x="-1.2503" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="46" x="-1.7504" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="47" x="-2.2506" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
-<smd name="48" x="-2.7507" y="3.38" dx="0.29718125" dy="0.55" layer="1" rot="R180"/>
+<smd name="1" x="-3.38" y="2.7507" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="2" x="-3.38" y="2.2506" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="3" x="-3.38" y="1.7504" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="4" x="-3.38" y="1.2503" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="5" x="-3.38" y="0.7502" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="6" x="-3.38" y="0.2501" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="7" x="-3.38" y="-0.2501" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="8" x="-3.38" y="-0.7502" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="9" x="-3.38" y="-1.2503" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="10" x="-3.38" y="-1.7504" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="11" x="-3.38" y="-2.2506" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="12" x="-3.38" y="-2.7507" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="13" x="-2.7507" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="14" x="-2.2506" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="15" x="-1.7504" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="16" x="-1.2503" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="17" x="-0.7502" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="18" x="-0.2501" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="19" x="0.2501" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="20" x="0.7502" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="21" x="1.2503" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="22" x="1.7504" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="23" x="2.2506" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="24" x="2.7507" y="-3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="25" x="3.38" y="-2.7507" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="26" x="3.38" y="-2.2506" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="27" x="3.38" y="-1.7504" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="28" x="3.38" y="-1.2503" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="29" x="3.38" y="-0.7502" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="30" x="3.38" y="-0.2501" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="31" x="3.38" y="0.2501" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="32" x="3.38" y="0.7502" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="33" x="3.38" y="1.2503" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="34" x="3.38" y="1.7504" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="35" x="3.38" y="2.2506" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="36" x="3.38" y="2.7507" dx="0.254" dy="0.55" layer="1" rot="R270"/>
+<smd name="37" x="2.7507" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="38" x="2.2506" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="39" x="1.7504" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="40" x="1.2503" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="41" x="0.7502" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="42" x="0.2501" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="43" x="-0.2501" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="44" x="-0.7502" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="45" x="-1.2503" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="46" x="-1.7504" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="47" x="-2.2506" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
+<smd name="48" x="-2.7507" y="3.38" dx="0.254" dy="0.55" layer="1" rot="R180"/>
 <smd name="49" x="0" y="0" dx="5.6" dy="5.6" layer="1" cream="no"/>
 <text x="-2.9988" y="4.9022" size="1.27" layer="27" ratio="6">&gt;Value</text>
 <text x="7.2911" y="2.159" size="0.635" layer="51" ratio="4" rot="R90">0.02in/0.5mm</text>
@@ -5590,7 +5590,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <packageinstance name="LGA-14(2.5X3X0.86)"/>
 </packageinstances>
 </package3d>
-<package3d name="STMICROELECTRONICS_LSM303AGRTR_0" urn="urn:adsk.eagle:package:34184926/4" type="model" library_version="157">
+<package3d name="STMICROELECTRONICS_LSM303AGRTR_0" urn="urn:adsk.eagle:package:34184926/4" type="model" library_version="167" library_locally_modified="yes">
 <description>Accelerometer, Magnetometer, Temperature, 3 Axis Sensor I²C, SPI Output</description>
 <packageinstances>
 <packageinstance name="STMICROELECTRONICS_LSM303AGRTR_0"/>
@@ -5601,7 +5601,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <packageinstance name="HEXABITZ_ICS_UFQFPN48_STM32_STM"/>
 </packageinstances>
 </package3d>
-<package3d name="HEXABITZ_ICS_QFN_B1CEU6_STM-L" urn="urn:adsk.eagle:package:39679334/7" type="model" library_version="157">
+<package3d name="HEXABITZ_ICS_QFN_B1CEU6_STM-L" urn="urn:adsk.eagle:package:39679334/7" type="model" library_version="167" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="HEXABITZ_ICS_QFN_B1CEU6_STM-L"/>
 </packageinstances>
@@ -5774,7 +5774,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="STMICROELECTRONICS_LSM303AGRTR" urn="urn:adsk.eagle:component:34184927/3" prefix="U" library_version="157">
+<deviceset name="STMICROELECTRONICS_LSM303AGRTR" urn="urn:adsk.eagle:component:34184927/3" prefix="U" library_version="167" library_locally_modified="yes">
 <description>Accelerometer, Magnetometer, Temperature, 3 Axis Sensor I²C, SPI Output</description>
 <gates>
 <gate name="G$0" symbol="STMICROELECTRONICS_LSM303AGRTR_0_0" x="0" y="0"/>
@@ -5840,7 +5840,7 @@ Source: &lt;a href="http://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf"&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="STM32G0B1CEU6N" urn="urn:adsk.eagle:component:39679338/7" prefix="U" library_version="157">
+<deviceset name="STM32G0B1CEU6N" urn="urn:adsk.eagle:component:39679338/7" prefix="U" library_version="167" library_locally_modified="yes">
 <gates>
 <gate name="A" symbol="HEXABITZ_ICS_STM32G0B1CEU6N" x="0" y="0"/>
 </gates>
